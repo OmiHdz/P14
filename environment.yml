@@ -204,7 +204,7 @@ dependencies:
   - zstd=1.5.5=hd43e919_2
   - pip:
       - annotated-types==0.7.0
-      - en-core-web-sm==3.7.1
+#      - en-core-web-sm==3.7.1
       - pydantic==2.8.2
       - pydantic-core==2.20.1
       - spacy==3.7.5
